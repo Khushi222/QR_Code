@@ -55,9 +55,9 @@ html , body{
     width:32rem;
     position: relative;
     top: 27%;
-    border:solid;
     text-align:center;
     margin: 0 auto;
+    font-size: 1.5rem;
 }
 
 
@@ -68,9 +68,9 @@ html , body{
         min-height: 40%;
         padding-bottom: 3rem;
     }
-.myCode{
-    width:90%;
-    margin:0 auto;
-    left:1%;
-}
+    .myCode{
+        width:90%;
+        margin:0 auto;
+        left:1%;
+    }
 }
