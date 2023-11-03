@@ -51,12 +51,20 @@ html , body{
     padding: 0 1.5rem;
     text-align: center;
 }
+.myCode{
+    width:30%;
+    border:solid;
+    position: relative;
+    top: 80%;
+    left: 40%;
+}
 
 @media screen and (max-width : 375px) {
     .card{
         width: 90%;
         margin: 0 auto;
-        min-height: 80%;
+        min-height: 40%;
+        padding-bottom: 3rem;
     }
 
     .cardDetail p{
